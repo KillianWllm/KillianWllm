@@ -1,6 +1,3 @@
-<h1 align="center">Salut👋,Je suis Killian</h1>
-<h3 align="center">Passionné en formation pour devenir un concepteur développeur d'applications. En quête de connaissances et d'expériences dans le monde du développement logiciel. Fasciné par la création d'applications innovantes et conviviales, je me spécialise dans les écosystèmes React et Node.js. J'ai également une solide base de connaissances en Java. En constante évolution pour maîtriser les langages et les technologies du web et de l'application. À la recherche d'opportunités de collaboration et de croissance dans le vaste paysage de la programmation !</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=killianwllm&label=Profile%20views&color=0e75b6&style=flat" alt="killianwllm" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=killianwllm" alt="killianwllm" /></a> </p>
